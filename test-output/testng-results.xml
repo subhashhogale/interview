@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-03T23:23:58 IST" name="Default suite" finished-at="2025-10-03T23:24:07 IST" duration-ms="8902">
+    <groups>
+    </groups>
+    <test started-at="2025-10-03T23:23:58 IST" name="Default test" finished-at="2025-10-03T23:24:07 IST" duration-ms="8902">
+      <class name="JavaProgram.extentsrepo">
+        <test-method is-config="true" signature="init()[pri:0, instance:JavaProgram.extentsrepo@7205765b]" started-at="2025-10-03T23:23:58 IST" name="init" finished-at="2025-10-03T23:24:03 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="firstTest()[pri:0, instance:JavaProgram.extentsrepo@7205765b]" started-at="2025-10-03T23:24:03 IST" name="firstTest" finished-at="2025-10-03T23:24:07 IST" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- JavaProgram.extentsrepo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
